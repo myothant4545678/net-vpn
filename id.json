@@ -1,7 +1,12 @@
 {
-    "allowedModels": [
-        "Pixel 4a",
-        "Galaxy S21",
-        "uu"
-    ]
-}
+    "name":"myo",
+    "allowedModels":"Pixel 4a",
+    "date":"2024/9/22"
+    
+},
+{
+    "name":"myo",
+    "allowedModels":"Pixel 4a",
+    "date":"2024/9/22"
+    
+},
