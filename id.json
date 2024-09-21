@@ -1,5 +1,5 @@
 {
-    "allowedModels": 
+    "allowedModels": [
         {
             "name": "ufig",
             "model": "gigg'",
@@ -15,5 +15,5 @@
             "model": "f6c9f6bc94836042",
             "date": "30"
         }
-    
+    ]
 }
