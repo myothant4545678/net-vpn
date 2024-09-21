@@ -1,8 +1,5 @@
 {
-    "allowedModels": [
-        "Pixel 5",
-        "Pixel 4a",
-        "Galaxy S21",
+    "allowedModels": 
         {
             "name": "ufig",
             "model": "gigg'",
@@ -18,5 +15,5 @@
             "model": "f6c9f6bc94836042",
             "date": "30"
         }
-    ]
+    
 }
