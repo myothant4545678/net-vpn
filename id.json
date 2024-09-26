@@ -1,3 +1,9 @@
 {
-    "allowedModels": []
+    "allowedModels": [
+        {
+            "name": "myo",
+            "model": "djdkd",
+            "date": "30"
+        }
+    ]
 }
