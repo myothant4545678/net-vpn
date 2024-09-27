@@ -1,11 +1,6 @@
 {
     "allowedModels": [
         {
-            "name": "myo",
-            "model": "djdkd",
-            "date": "30"
-        },
-        {
             "name": "uu",
             "model": "uuu",
             "date": "2024-11-25"
