@@ -465,46 +465,7 @@
             "name": "huu",
             "model": "44",
             "date": "2024-11-26"
-        },
-        {
-            "name": "hhu",
-            "model": "44",
-            "date": "2024-11-26"
-        },
-        {
-            "name": "guu",
-            "model": "55",
-            "date": "2024-11-26"
-        },
-        {
-            "name": "yy",
-            "model": "yy",
-            "date": "2024-11-26"
-        },
-        {
-            "name": "yy",
-            "model": "hh",
-            "date": "2024-10-06"
-        },
-        {
-            "name": "uuu",
-            "model": "yu",
-            "date": "2024-11-15"
-        },
-        {
-            "name": "uuu",
-            "model": "yuu",
-            "date": "2024-11-15"
-        },
-        {
-            "name": "dev app",
-            "model": "8d5be5b72374adc4",
-            "date": "2024-11-09"
-        },
-        {
-            "name": "yy",
-            "model": "8d5be5b72374adc4",
-            "date": "2024-11-13"
         }
+
     ]
 }
